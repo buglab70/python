@@ -1,0 +1,2 @@
+In one dimensional array, find the sum of contiguous subarray of numbers which has the largest sum. The values may be negative and positive integers.
+For example, if the given array is arr = [13, -3, -25, 20, -3, -16, -23, 18, 20, -7, 12, -5, -22, 15, -4, 7] then the maximum subarray sum is 43 = 18 + 20 - 7 + 12 arr[8 .. 11].
